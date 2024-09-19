@@ -1,8 +1,8 @@
 # Steam Microtransaction Bridge API [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/NF7Fuhr2FZ)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jasielmacedo/steam-microtransaction-api)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MafiaDeveloper01/steam-micro.git)
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/jasielmacedo/steam-microtransaction-api/tree/main)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/MafiaDeveloper01/steam-micro.git/tree/main)
 
 An intermediate api to handle steam microtransactions (In Game Purchases) using steam web services.
 

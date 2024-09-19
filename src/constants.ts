@@ -27,5 +27,5 @@ export default {
    * Set true if you want to enable sandbox mode
    * Please check https://partner.steamgames.com/doc/webapi/ISteamMicroTxnSandbox for more info
    */
-  development: process.env.NODE_ENV == 'test' || process.env.NODE_ENV === 'development',
+  development: true,
 };

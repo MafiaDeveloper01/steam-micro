@@ -4,7 +4,7 @@ spec:
     - name: microtransaction-api
       git:
         branch: main
-        repo_clone_url: https://github.com/jasielmacedo/steam-microtransaction-api.git
+        repo_clone_url: https://github.com/MafiaDeveloper01/steam-micro.git
       envs:
         - key: STEAM_WEBKEY
           value: ''
